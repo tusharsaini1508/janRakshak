@@ -1,0 +1,26 @@
+{
+    "temp": {
+        "cur": 72.5
+    },
+    "feelsLike": {
+        "cur": 72.5
+    },
+    "pressure": 1005,
+    "humidity": 95,
+    "clouds": 100,
+    "visibility": 300,
+    "wind": {
+        "deg": 180,
+        "gust": 20.0,
+        "speed": 10.0
+    },
+    "rain": 80.0,
+    "snow": 0,
+    "conditionId": 501,
+    "main": "Rain",
+    "description": "moderate rain",
+    "icon": {
+        "url": "http://openweathermap.org/img/wn/09d@2x.png",
+        "raw": "09d"
+    }
+}
